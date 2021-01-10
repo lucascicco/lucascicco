@@ -14,7 +14,7 @@
 
 Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
 
-  <img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="350" height="320" />
   
 **Talking about Personal Stuffs:**
 

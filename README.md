@@ -24,6 +24,9 @@ Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
 - 💬 Ask me about anything, I am happy to help;
 
 - 📫 How to reach me: lucasvitorx1@gmail.com;
+- <img alt="discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Vitorx1#0116
+ 
+
 
 **Languages and Tools:**  
 

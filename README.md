@@ -20,7 +20,7 @@ Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
 
 - :blue_book: Information System Student;
 - 💻 I’m currently looking for a job or internship;
-- 🌱 I’m currently learning and focusing on flutter; 
+- 🌱 I’m currently learning and focusing on Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 
 - 📫 How to reach me: lucasvitorx1@gmail.com;

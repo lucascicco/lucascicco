@@ -1,7 +1,7 @@
 ### Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<a href="https://www.linkedin.com/in/lucas-vitor-de-cicco-811b5817a/">
+<a href="https://www.linkedin.com/in/lucas-vitor-de-cicco">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -24,7 +24,7 @@ Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
 - 💬 Ask me about anything, I am happy to help;
 
 - 📫 How to reach me: lucasvitorx1@gmail.com;
-- <img alt="discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Vitorx1#0116
+- <img alt="discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Lucasx1#0116
  
 
 

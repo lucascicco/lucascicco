@@ -2,10 +2,9 @@
 
 
 <a href="https://www.linkedin.com/in/lucas-vitor-de-cicco">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Lucas cicco's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/>
 <br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucascicco.lucascicco)
@@ -14,18 +13,15 @@
 
 Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
 
-  <img align="right" alt="GIF" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" width="350" height="320" />
-  
 **Talking about Personal Stuffs:**
 
 - :blue_book: Information System Student;
-- 🌱 I’m currently learning and focusing on Flutter; 
-- 💬 Ask me about anything, I am happy to help;
+- I’m currently working at BLB Ventures; 
+- Ask me about anything, I am happy to help;
 
 - 📫 How to reach me: lucasvitorx1@gmail.com;
 - <img alt="discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Lucasx1#0116
  
-
 
 **Languages and Tools:**  
 

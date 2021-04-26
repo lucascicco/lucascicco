@@ -19,7 +19,7 @@ Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
 - 微信: lucascicco
 
 - 📫 GMAIL: lucasvitorx1@gmail.com;
-- <img alt="discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Lucasx1#0116
+- <img alt="discord" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Lucasx1#0116
 
 **Languages and Tools:**  
 

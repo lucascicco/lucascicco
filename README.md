@@ -7,8 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
-
+<p align="center">I'm Lucas Cicco, a Brazilian FullStack Developer :brazil:.</p>
 
 **Talking about Personal Stuffs:**
 
@@ -17,7 +16,6 @@ Hi, I'm Lucas Cicco, a full-stack developer from Brazil :brazil:.
 - Ask me about anything, I am happy to help;
 - Languages: 🇧🇷 PTBR, <img height="10" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/US%402x.png"/> ENGLISH, <img height="10" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/CN%402x.png"/> 普通话 - 中文.
 - 微信: lucascicco
-
 - 📫 GMAIL: lucasvitorx1@gmail.com;
 - <img alt="discord" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Lucasx1#0116
 

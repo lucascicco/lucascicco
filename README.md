@@ -49,7 +49,7 @@ If you are a DevOps engineer, this is a roadmap I've created taking the best too
 - [ ] LPI 1
 - [ ] NGINX
 - [X] Vagrant
-- [X] Ansible 
+- [X] Ansible <-
 - [ ] Terraform
 - [ ] Docker
 - [ ] K8s

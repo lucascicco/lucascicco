@@ -51,8 +51,8 @@ If you are a DevOps engineer, this is a roadmap I've created taking the best too
 - [X] Vagrant
 - [X] Ansible <-
 - [ ] Terraform
-- [ ] Docker
-- [ ] K8s
+- [ ] Docker - DCA
+- [ ] K8s - CKA
 - [ ] Grafana/Prometheus
 - [ ] Jaeger
 - [ ] Elastic Stack

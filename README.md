@@ -6,6 +6,7 @@
 <p> If you are willing to exchange knowledge about languages, programming skills and culture, I'd like you to know I am very interested on it, then you can me reach through those social medias: </p>
 
 - lucasciccomy@gmail.com
+- lucasvitorx1@gmail.com
 - 微信: lucascicco
 - <img alt="discord" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Lucasx1#0116
 -  <a href="https://www.linkedin.com/in/lucas-vitor-de-cicco"><img align="left" alt="Lucas cicco's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>

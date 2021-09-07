@@ -50,8 +50,8 @@ If you are a DevOps engineer, this is a roadmap I've created taking the best too
 - [ ] LPI 1
 - [ ] NGINX
 - [X] Vagrant
-- [X] Ansible <-
-- [ ] Terraform
+- [X] Ansible 
+- [ ] Terraform <-
 - [ ] Docker - DCA
 - [ ] K8s - CKA
 - [ ] Grafana/Prometheus

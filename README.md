@@ -41,23 +41,3 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascicco&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-### My DevOps #TODO
-
-If you are a DevOps engineer, this is a roadmap I've created taking the best tools for becoming a DevOps Jedi, if I'm wrong at some point, please let me know.
-
-- [X] Networking
-- [ ] LPI 1
-- [ ] NGINX
-- [X] Vagrant
-- [X] Ansible 
-- [ ] Terraform <-
-- [ ] Docker - DCA
-- [ ] K8s - CKA
-- [ ] Grafana/Prometheus
-- [ ] Jaeger
-- [ ] Elastic Stack
-- [ ] AWS/Digital Ocean
-- [ ] Go/Python
-
- Thank you for reading. 

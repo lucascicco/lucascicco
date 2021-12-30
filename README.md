@@ -1,6 +1,6 @@
 # Lucas Cicco
 
-A brazilian fullstack developer from São Paulo 🇧🇷, working mostly on **front-end** side, currently working at BLB Ventures.
+A fullstack developer from São Paulo (Brazil 🇧🇷) working mostly on **front-end** side, currently working at BLB Ventures.
 
 I do enjoy learning asian languages, such as: 🇨🇳 mandarin (**普通话 - B1/HSK III**), 🇰🇷 korean (**한국어 - A1**) and some 🇺🇸 english (**C1**). Besides it, **DevOps** field interests me so much.
 
@@ -25,7 +25,7 @@ If you are willing to exchange knowledge about languages, programming skills and
 
 ## Tech Stack
 
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 30px;">
   <img alt="typescript" height="70" width="70" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
   <img alt="react" height="70" width="70"

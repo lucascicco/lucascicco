@@ -6,8 +6,6 @@
 <p> If you are willing to exchange knowledge about languages, programming skills and culture, I'd like you to know I am very interested on it, then you can reach me through those social medias: </p>
 
 - lucasvitorx1@gmail.com
-- 微信: lucascicco
-- <img alt="discord" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Lucasx1#0116
 -  <a href="https://www.linkedin.com/in/lucas-vitor-de-cicco"><img align="left" alt="Lucas cicco's LinkedIN" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>
 
 
@@ -18,12 +16,10 @@
 <span>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"/></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></code>
 <code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"/></code>
-<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/></code>
 </span>
   
 <h5>Back-end</h5>

@@ -1,8 +1,8 @@
 # Lucas Cicco
 
-A fullstack developer from São Paulo (Brazil 🇧🇷) working mostly on **front-end** side, currently working at BLB Ventures.
+Fullstack developer from BR.
 
-I do enjoy learning asian languages, such as: 🇨🇳 mandarin (**普通话 - B1/HSK III**), 🇰🇷 korean (**한국어 - A1**) and some 🇺🇸 english (**C1**). Besides it, **DevOps** field interests me so much.
+Interests: Clouding Computing / Distributed Systems / Security / Container Orchestration / DevOps / Automatization / Golang / SELinux
 
 If you are willing to exchange knowledge about languages, programming skills and culture. I'd like you to know I am very interested on it, then you can reach me through those social medias:
 

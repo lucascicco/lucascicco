@@ -1,8 +1,8 @@
 # Lucas Cicco
 
-Fullstack developer from BR.
+**DevOps Dev.** from BR
 
-Interests: Clouding Computing / Distributed Systems / Security / Container Orchestration / DevOps / Automatization / Golang / SELinux
+Interests: Clouding Computing / Distributed System / Security / Container Orchestration / DevOps / Automatization / Golang / SELinux
 
 If you are willing to exchange knowledge about languages, programming skills and culture. I'd like you to know I am very interested on it, then you can reach me through those social medias:
 
@@ -22,22 +22,5 @@ If you are willing to exchange knowledge about languages, programming skills and
       />
   </a>
 </div>
-
-## Tech Stack
-
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="typescript" height="55" width="55" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-  <img alt="react" height="55" width="55"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img alt="graphql" height="55" width="55"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-      <img alt="graphql" height="55" width="55"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img alt="ubuntu" height="55" width="55"
-    src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" />
-</div>
-
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascicco&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)

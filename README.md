@@ -28,12 +28,12 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-YAML         11 hrs 35 mins  █████████▒░░░░░░░░░░░░░░░   36.98 %
-C            10 hrs 57 mins  ████████▓░░░░░░░░░░░░░░░░   34.98 %
-Bash         5 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-TypeScript   56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Markdown     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Makefile     29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+C             13 hrs 59 mins  ███████████▓░░░░░░░░░░░░░   46.51 %
+YAML          10 hrs 32 mins  ████████▓░░░░░░░░░░░░░░░░   35.04 %
+Bash          2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
+TypeScript    56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Markdown      37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Makefile      29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->

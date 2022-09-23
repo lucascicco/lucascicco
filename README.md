@@ -28,10 +28,10 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Go           1 hr 59 mins    ████████████▒░░░░░░░░░░░░   49.08 %
-YAML         1 hr 17 mins    ████████░░░░░░░░░░░░░░░░░   31.82 %
-Bash         38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Go      1 hr 58 mins    █████████████▒░░░░░░░░░░░   53.73 %
+YAML    1 hr 3 mins     ███████▒░░░░░░░░░░░░░░░░░   29.08 %
+Bash    35 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+Other   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->

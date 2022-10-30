@@ -28,12 +28,12 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-YAML              3 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   40.72 %
-Kotlin            1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Bash              1 hr 8 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Docker            1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Python            52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Other             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+YAML              5 hrs 14 mins   ████████████▒░░░░░░░░░░░░   49.47 %
+Kotlin            1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Docker            1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Python            52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Bash              45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+Other             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
 ```
 
 <!--END_SECTION:waka-->

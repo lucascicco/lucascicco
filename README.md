@@ -28,12 +28,12 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Go           7 hrs 54 mins   ████████████▓░░░░░░░░░░░░   51.17 %
-YAML         3 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-JSON         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Docker       1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Bash         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Go                         7 hrs 9 mins    ████████▓░░░░░░░░░░░░░░░░   34.90 %
+YAML                       3 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
+Terraform                  2 hrs 58 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+Bash                       2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+JSON                       1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Docker                     1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 ```
 
 <!--END_SECTION:waka-->

@@ -28,12 +28,12 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Bash                       5 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.97 %
-YAML                       4 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-Terraform                  3 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
-JSON                       1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
-terraform                  1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-JavaScript                 1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Bash                       7 hrs 31 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.43 %
+Terraform                  6 hrs 44 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+YAML                       5 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+terraform                  1 hr 57 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+JSON                       1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+JavaScript                 1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 ```
 
 <!--END_SECTION:waka-->

@@ -28,12 +28,12 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 12 hrs 23 mins  ███████▓░░░░░░░░░░░░░░░░░   30.85 %
-Docker                     6 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-YAML                       6 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
-JSON                       3 hrs 16 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
-Bash                       3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-lir                        2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+TypeScript                 16 hrs 13 mins  █████████▒░░░░░░░░░░░░░░░   36.93 %
+Docker                     6 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+YAML                       5 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+JSON                       3 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Bash                       3 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
+lir                        2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
 ```
 
 <!--END_SECTION:waka-->

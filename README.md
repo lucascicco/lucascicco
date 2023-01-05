@@ -28,10 +28,7 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Docker   2 mins          ██████████▒░░░░░░░░░░░░░░   40.91 %
-Elixir   2 mins          ██████████░░░░░░░░░░░░░░░   40.30 %
-lir      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Lua      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

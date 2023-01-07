@@ -28,12 +28,12 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Lua          1 hr 52 mins    █████████████████▓░░░░░░░   71.08 %
-TypeScript   23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.98 %
+Lua          1 hr 52 mins    █████████████████▓░░░░░░░   70.30 %
+TypeScript   23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
 lir          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
-Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Bash         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->

@@ -28,12 +28,12 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Lua          5 hrs 50 mins   █████████████████▒░░░░░░░   69.09 %
-Python       1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-TypeScript   24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Bash         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-lir          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Docker       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Lua                        5 hrs 50 mins   ████████████████▒░░░░░░░░   64.78 %
+Python                     1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+lir                        45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+TypeScript                 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Bash                       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Docker                     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->

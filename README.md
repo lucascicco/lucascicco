@@ -28,9 +28,9 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Python           4 hrs 42 mins   ██████████████████████░░░   87.85 %
-XML              18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Python           3 hrs 38 mins   █████████████████████▒░░░   84.85 %
+XML              18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+Other            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->

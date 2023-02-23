@@ -28,9 +28,9 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-XML     18 mins         ██████████████████████▓░░   90.09 %
-lir     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+lir     0 secs          ███████████████▒░░░░░░░░░   61.67 %
+obj     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+Other   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
 ```
 
 <!--END_SECTION:waka-->

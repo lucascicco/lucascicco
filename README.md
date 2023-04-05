@@ -28,8 +28,9 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Python       33 hrs 6 mins   ███████████████████████░░   92.23 %
-Other        38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Python       35 hrs 46 mins  ██████████████████████▓░░   91.29 %
+Bash         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->

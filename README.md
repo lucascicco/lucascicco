@@ -28,11 +28,10 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Python                     6 hrs 18 mins   ██████████████████▓░░░░░░   74.78 %
-YAML                       52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-JavaScript                 43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Bash                       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Other                      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python                     5 hrs 56 mins   ███████████████████▒░░░░░   77.70 %
+YAML                       1 hr 8 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
+Bash                       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Other                      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->

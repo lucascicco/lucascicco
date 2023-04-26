@@ -28,12 +28,10 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```text
-Python                     6 hrs 6 mins    █████████▒░░░░░░░░░░░░░░░   37.47 %
-Terraform                  5 hrs 29 mins   ████████▒░░░░░░░░░░░░░░░░   33.68 %
-YAML                       3 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-Bash                       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-lir                        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other                      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Terraform    9 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.02 %
+YAML         6 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   33.86 %
+Python       2 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 %
+Other        27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->

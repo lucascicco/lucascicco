@@ -1,6 +1,6 @@
 # Lucas Cicco
 
-**DevOps Dev.** from BR
+**DevOps Engineer & SRE** from BR
 
 Interests: Clouding Computing / Distributed System / Security / Container Orchestration / DevOps / Automatization / Golang / SELinux
 

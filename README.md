@@ -28,11 +28,11 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr 44 mins    ██████████░░░░░░░░░░░░░░░   39.90 %
-YAML        1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-Bash        48 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-Other       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-lir         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Terraform   1 hr 44 mins    ██████████████▒░░░░░░░░░░   57.15 %
+Bash        48 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
+YAML        14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Other       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+lir         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->

@@ -28,11 +28,11 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         1 hr 39 mins    ██████████████████▒░░░░░░   72.84 %
-Text         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-JavaScript   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+YAML         1 hr 29 mins    █████████████████▓░░░░░░░   70.54 %
+Text         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+JavaScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+INI          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->

@@ -28,11 +28,11 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         2 hrs 16 mins   █████████░░░░░░░░░░░░░░░░   35.40 %
-YAML         1 hr 21 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-Go           48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
-TypeScript   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-TOML         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Bash                       2 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.73 %
+YAML                       1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+TypeScript                 56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+INI                        56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+Go                         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
 ```
 
 <!--END_SECTION:waka-->

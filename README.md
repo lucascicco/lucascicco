@@ -28,11 +28,11 @@ If you are willing to exchange knowledge about languages, programming skills and
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         4 hrs 38 mins   ████████████░░░░░░░░░░░░░   47.66 %
-Python       2 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   28.86 %
-JSON         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Markdown     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Bash         4 hrs 29 mins   ██████████▒░░░░░░░░░░░░░░   40.93 %
+Python       4 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.79 %
+JSON         42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Markdown     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->

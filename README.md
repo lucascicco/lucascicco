@@ -26,11 +26,11 @@ Interests: Clouding Computing / Distributed System / Security / Container Orches
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     10 hrs 18 mins  █████████▒░░░░░░░░░░░░░░░   37.51 %
-Bash                       7 hrs 43 mins   ███████░░░░░░░░░░░░░░░░░░   28.12 %
-Other                      2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Markdown                   2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-YAML                       1 hr 39 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Python                     9 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   35.06 %
+Bash                       8 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Other                      2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Markdown                   1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+YAML                       1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->

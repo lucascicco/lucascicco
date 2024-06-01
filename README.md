@@ -26,11 +26,11 @@ Interests: Clouding Computing / Distributed System / Security / Container Orches
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         7 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.76 %
-YAML         4 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-Lua          3 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-TOML         1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Go           1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+Bash         7 hrs 46 mins   ████████▒░░░░░░░░░░░░░░░░   32.92 %
+YAML         4 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.23 %
+Python       3 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+Lua          3 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+TOML         1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
 ```
 
 <!--END_SECTION:waka-->

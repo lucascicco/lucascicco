@@ -26,11 +26,11 @@ Interests: Clouding Computing / Distributed System / Security / Container Orches
 <!--START_SECTION:waka-->
 
 ```txt
-Python       7 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
-TypeScript   6 hrs 58 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
-YAML         6 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-Terraform    2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-Bash         2 hrs 28 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Python       10 hrs 44 mins  ████████▓░░░░░░░░░░░░░░░░   34.02 %
+TypeScript   7 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.39 %
+YAML         5 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Terraform    2 hrs 42 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Bash         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 ```
 
 <!--END_SECTION:waka-->

@@ -26,11 +26,11 @@ Interests: Clouding Computing / Distributed System / Security / Container Orches
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 31 mins  ███████████████████▒░░░░░   77.21 %
-YAML         2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
-Bash         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Lua          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Markdown     13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+TypeScript   13 hrs 41 mins  ███████████████████▓░░░░░   78.85 %
+YAML         1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Bash         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Lua          16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->

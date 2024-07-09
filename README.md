@@ -26,11 +26,11 @@ Interests: Clouding Computing / Distributed System / Security / Container Orches
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 12 mins   ████████████▒░░░░░░░░░░░░   48.84 %
-YAML         4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-Terraform    3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-Docker       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Lua          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+TypeScript   7 hrs 56 mins   ███████████▒░░░░░░░░░░░░░   45.17 %
+YAML         4 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.46 %
+Terraform    3 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+Docker       39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Lua          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
